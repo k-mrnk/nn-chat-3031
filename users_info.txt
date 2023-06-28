@@ -1,0 +1,5 @@
+! 実際のWebサービスでは平文のPWを保管しない
+# 平文のPW
+admin:gsgAhs5d2H7
+guest1:PU3pathuChEM
+guest2:35EWesWatuxa
